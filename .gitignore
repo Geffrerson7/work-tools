@@ -176,4 +176,8 @@ pyrightconfig.json
 #Excel file
 *.xlsx
 
+img-gef/
+img-bhrandon/
+img-jesus/
+
 # End of https://www.toptal.com/developers/gitignore/api/python

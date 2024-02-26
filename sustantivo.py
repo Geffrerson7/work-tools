@@ -11,7 +11,7 @@ nltk.download('averaged_perceptron_tagger')
 df = pd.read_excel('mi_archivo.xlsx')
 
 # Selecciona la columna de interés
-columna_interes = 'Columna A'
+columna_interes = 'Nombre'
 
 # Función para identificar sustantivos
 def identificar_sustantivos(texto):
